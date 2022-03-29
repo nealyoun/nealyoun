@@ -18,7 +18,9 @@
 ## 👨🏻‍💻 Tech Stack 
 
 <p align="left">
-    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+<!--     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> -->
+    <img alt="Scikit" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
 <p align="left">
@@ -27,12 +29,14 @@
 </p>
 
 <p align="left">
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
     <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white" /> 
 </p>
 <p align="left">    
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
+
+
 
 
 
