@@ -32,7 +32,7 @@
 
 
 
-  ![Nayo Youn's GitHub stats](https://github-readme-stats.vercel.app/api?username=nealyoun&show_icons=true&theme=radical)
+  ![Nayo Youn's GitHub stats](https://github-readme-stats.vercel.app/api?username=nealyoun&show_icons=true&theme=rose_pine)
   
 
 
