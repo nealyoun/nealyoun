@@ -3,8 +3,8 @@
  # **Hi there!** <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)  -->
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tae-you-kim-5204184b/)](https://www.linkedin.com/in/nayo-youn/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyou0923@gmail.com)](mailto:nayoyoun@gmail.com) 
 - Curently studying Data Science
-- Enjoying, Learning Data Handling & Machine Learning Models
-- Also into Deep Learning (curently)
+- Enjoying cutting through the edges regarding ML/DL :)
+- Also into Deep Learning as well (currently)
 <!-- - Enjoying cutting through the edges regarding ML/DL :) -->
 
 
